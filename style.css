@@ -1,0 +1,45 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  font: normal 20pt Arial;
+}
+
+header{
+  text-align: center;
+  color: #fff;
+  margin: 20px;
+}
+
+section{
+  text-align: center;
+  background: #fff;
+  border-radius: 10px;
+  padding: 15px;
+  width: 500px;
+  margin: auto;
+  box-shadow: 5px 5px 25px #000;
+}
+
+#txt{
+  font-size: 18pt;
+}
+
+img{
+  width: 170px;
+  height: 170px;
+  object-fit: cover;
+  border-radius: 50%;
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+footer{
+  color: #fff;
+  text-align: center;
+  font-style: italic;
+  margin-top: 10px;
+}
